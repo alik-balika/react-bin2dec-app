@@ -1,8 +1,6 @@
-# React + Vite
+# Bin2Dec React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Idea from https://github.com/florinpop17/app-ideas/tree/master?tab=readme-ov-file
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Please access the demo at:
+https://alik-balika.github.io/react-bin2dec-app/
